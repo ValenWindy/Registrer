@@ -1,0 +1,60 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+}
+
+
+
+
+body {
+    background-image: url('Forest\ Wallpaper.jpg');
+}
+.form-registrer {
+    width: 400px;
+    background: slateblue;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: Constantia;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    box-shadow: 7px 10px 37px #000;
+}
+
+.form-registrer h4 {
+    font-family: 'Constantine';
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 20 px;
+}
+
+.control {
+    width: 90%;
+    background:black;
+    padding: 12px;
+    margin-bottom: 5px;
+    border: 0px solid slateblue; 
+    color: white;
+
+}
+
+.form-registrer p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    height: 40px;
+}
+
+.form-registrer a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
